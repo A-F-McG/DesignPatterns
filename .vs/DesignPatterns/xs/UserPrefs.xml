@@ -1,14 +1,24 @@
 ﻿<Properties StartupConfiguration="{50268333-4E67-45C1-B9C7-4A2C926AB637}|Default">
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="StrategyPattern/ConcreteStrategies/AttackConcreteStrategyB.cs">
     <Files>
-      <File FileName="StrategyPattern/Program.cs" Line="1" Column="1" />
+      <File FileName="StrategyPattern/Program.cs" Line="12" Column="2" />
+      <File FileName="StrategyPattern/Client.cs" Line="7" Column="10" />
+      <File FileName="StrategyPattern/IClientStrategy.cs" Line="8" Column="2" />
+      <File FileName="StrategyPattern/MoveConcreteStrategyA.cs" Line="12" Column="1" />
+      <File FileName="StrategyPattern/Strategies/IAttackStrategy.cs" Line="6" Column="30" />
+      <File FileName="StrategyPattern/ConcreteStrategies/MoveConcreteStrategyB.cs" Line="11" Column="2" />
+      <File FileName="StrategyPattern/ConcreteStrategies/AttackConcreteStrategyA.cs" Line="8" Column="47" />
+      <File FileName="StrategyPattern/ConcreteStrategies/AttackConcreteStrategyB.cs" Line="4" Column="58" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="DesignPatterns" expanded="True">
             <Node name="StrategyPattern" expanded="True">
-              <Node name="Program.cs" selected="True" />
+              <Node name="ConcreteStrategies" expanded="True">
+                <Node name="AttackConcreteStrategyB.cs" selected="True" />
+              </Node>
+              <Node name="Strategies" expanded="True" />
             </Node>
           </Node>
         </State>
