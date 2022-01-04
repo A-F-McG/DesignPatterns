@@ -1,5 +1,4 @@
-﻿using System;
-namespace StrategyPattern
+﻿namespace StrategyPattern
 {
     public class Context
     {
